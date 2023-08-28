@@ -29,7 +29,7 @@ DSCEngine is the core contract of the Decentralized Stablecoin system. It handle
 2. Ensure you have a compatible Solidity compiler installed (version 0.8.18).
 3. Install required dependencies using npm or yarn:
 
-bash
+## Bash
 npm install
  or
 yarn install
